@@ -22,7 +22,7 @@ Nabigazioa atal hauetan banatzen da:
 | **Directo al Paladar** | Blog estiloko artikuluak| Eduki **ugari** sukaldaritzari buruz | **Ez da interaktiboa**, gehiago **irakurketa** eta albisteak |
 
 
-### Ondorioak
+## Ondorioak
 **ChefOnline**-k lehiakideen aurrean abantaila nabarmenak izango ditugu:
 
 **ChefOnline** ez da errezeta-biltegi arrunta.  
