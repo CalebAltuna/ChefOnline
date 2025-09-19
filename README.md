@@ -2,7 +2,7 @@
 
 ## SARRERA
 
-ChefOnline sukaldaritza errezeta interaktiboak eskaintzen dituen webgunea da, erabiltzaileei argazkien eta bideoen bidezko jarraibideak emanez.
+ChefOnline errezeta interaktiboak eskaintzen dituen webgunea da, ikusizko eta praktiko moduan sukaldatzen ikasi nahi duten pertsonentzat. Helburua erabiltzaileei urratsez urrats laguntzea da, argazki eta bideo bidez, errezeta tradizionalak, veganoak eta postreak prestatzea errazten duena, esperientzia-maila ezberdinetara egokituta.
 Nabigazioa atal hauetan banatzen da:
 
 * **Hasiera**
