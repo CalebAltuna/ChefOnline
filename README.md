@@ -22,13 +22,5 @@ Nabigazioa atal hauetan banatzen da:
 | **Directo al Paladar** | Blog estiloko artikuluak| Eduki **ugari** sukaldaritzari buruz | **Ez da interaktiboa**, gehiago **irakurketa** eta albisteak |https://www.directoalpaladar.com/|
 
 
-## Ondorioak
-**ChefOnline**-k lehiakideen aurrean abantaila nabarmenak izango ditugu:
-
-**ChefOnline** ez da errezeta-biltegi arrunta.  
-Erabiltzaileei esperientzia **interaktibo eta pertsonalizatua** eskaintzen die: errezetak urratsez urrats jarraitzen dira argazki eta bideoen bidez, edukiak **kategoriatan sailkatuta** daude eta diseinu garbiari esker, hasiberri zein adituek erraz nabigatzen dute.  
-
-Gainera, proiektuak **hazkunde-potentzial handia** dauka: komunitatea, gomendio adimendunak edo gamifikazioa gehitzeko aukera.  .  
-
-Laburbilduz: *ChefOnline* ez da errezeta-biltegi soil bat, baizik eta **sukaldaritza esperientzia interaktibo eta pertsonalizatua**, erabiltzailearen beharretara egokitzen dena.  
+*ChefOnline* ez da errezeta-biltegi soil bat, baizik eta **sukaldaritza esperientzia interaktibo eta pertsonalizatua**, erabiltzailearen beharretara egokitzen dena.  
 
