@@ -23,9 +23,6 @@ Nabigazioa atal hauetan banatzen da:
 ---
 ### Ondorioak
 **ChefOnline**-k lehiakideen aurrean abantaila nabarmenak izango ditugu:
----
-
-## Ondorioak
 
 **ChefOnline** ez da errezeta-biltegi arrunta.  
 Erabiltzaileei esperientzia **interaktibo eta pertsonalizatua** eskaintzen die: errezetak urratsez urrats jarraitzen dira argazki eta bideoen bidez, edukiak **kategoriatan sailkatuta** daude eta diseinu garbiari esker, hasiberri zein adituek erraz nabigatzen dute.  
