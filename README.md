@@ -20,7 +20,8 @@ Nabigazioa atal hauetan banatzen da:
 | **Cookpad**    | Erabiltzaileek errezetak **igo eta partekatu**, komunitate aktiboa | Errezeta biltegi **zabala** | Funtzio sozial sendoak, **foro modukoa** |
 | **RecetasGratis / PetitChef** | Errezeta **zerrenda handiak**, irudi eta kategoriatan antolatuta | Errezeta **sailkapena** eta irudiak | **Gutxiago interaktiboa**, gehiago zerrenda klasikoak |
 | **Directo al Paladar** | Blog estiloko artikuluak| Eduki **ugari** sukaldaritzari buruz | **Ez da interaktiboa**, gehiago **irakurketa** eta albisteak |
----
+
+
 ### Ondorioak
 **ChefOnline**-k lehiakideen aurrean abantaila nabarmenak izango ditugu:
 
