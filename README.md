@@ -1,6 +1,6 @@
 # ChefOnline
 
-##SARRERA
+## SARRERA
 
 ChefOnline sukaldaritza errezeta interaktiboak eskaintzen dituen webgunea da, erabiltzaileei argazkien eta bideoen bidezko jarraibideak emanez.
 Nabigazioa atal hauetan banatzen da:
