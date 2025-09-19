@@ -14,9 +14,9 @@ Nabigazioa atal hauetan banatzen da:
 ## Lehiakideen azterketa
 
 
-| Webgunea       | Ezaugarriak nagusiak | Antzekotasunak ChefOnline-rekin | Desberdintasunak |
-|----------------|----------------------|---------------------------------|------------------|
-| **Tasty**      | Bideo **laburrak**, urratsez urrats, **ikuspegi oso bisuala** | **Bideo bidezko azalpenak**, errezeta **errazak** | Ez du erabiltzaile-profilaren atal pertsonalizatua |
+| Webgunea       | Ezaugarriak nagusiak | Antzekotasunak ChefOnline-rekin | Desberdintasunak |irudia|
+|----------------|----------------------|---------------------------------|------------------|------|
+| **Tasty**      | Bideo **laburrak**, urratsez urrats, **ikuspegi oso bisuala** | **Bideo bidezko azalpenak**, errezeta **errazak** | Ez du erabiltzaile-profilaren atal pertsonalizatua |<img src="tasty.png" width="100"> |
 | **Cookpad**    | Erabiltzaileek errezetak **igo eta partekatu**, komunitate aktiboa | Errezeta biltegi **zabala** | Funtzio sozial sendoak, **foro modukoa** |
 | **RecetasGratis / PetitChef** | Errezeta **zerrenda handiak**, irudi eta kategoriatan antolatuta | Errezeta **sailkapena** eta irudiak | **Gutxiago interaktiboa**, gehiago zerrenda klasikoak |
 | **Directo al Paladar** | Blog estiloko artikuluak| Eduki **ugari** sukaldaritzari buruz | **Ez da interaktiboa**, gehiago **irakurketa** eta albisteak |
