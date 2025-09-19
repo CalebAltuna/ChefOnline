@@ -24,3 +24,4 @@ Nabigazioa atal hauetan banatzen da:
 
 *ChefOnline* ez da errezeta-biltegi soil bat, baizik eta **sukaldaritza esperientzia interaktibo eta pertsonalizatua**, erabiltzailearen beharretara egokitzen dena.  
 
+{"type":"excalidraw/clipboard","elements":[{"id":"LT_BGeQgxmHBVUNThRrOe","type":"text","x":-300.4585992035228,"y":771.8602447891303,"width":55.359954833984375,"height":23,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#a5d8ff","fillStyle":"hachure","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"b0t","roundness":null,"seed":1554758823,"version":304,"versionNonce":819442313,"isDeleted":false,"boundElements":[],"updated":1758277143463,"link":null,"locked":false,"text":"repost","fontSize":20,"fontFamily":7,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"repost","autoResize":true,"lineHeight":1.15}],"files":{}}
