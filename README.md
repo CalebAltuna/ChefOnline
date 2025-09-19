@@ -12,7 +12,7 @@ Nabigazioa atal hauetan banatzen da:
 * **Nire sukaldea** (erabiltzaile-profila)
 
 Lehiakideen azterketa:
-## 🔎 Lehiakideen azterketa
+## Lehiakideen azterketa
 
 
 | Webgunea       | Ezaugarriak nagusiak | Antzekotasunak ChefOnline-rekin | Desberdintasunak |
