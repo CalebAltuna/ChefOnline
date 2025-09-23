@@ -32,10 +32,10 @@ Nabigazioa atal hauetan banatzen da:
 ## Estilo-gida
 
 ### Kolore-paleta
-- **Nagusia:** `#FF6B35` (laranja beroa, gosea pizteko)  
-- **Bigarrena:** `#FFD166` (horia argia, bizitasuna)  
-- **Neutrala:** `#F7F7F7` (atzealde garbia)  
-- **Testua:** `#333333` (gris iluna, irakurgarritasun ona)  
+- **Nagusia:** `#FF6B35` <span style="background-color:#FF6B35; padding: 0 12px; border-radius:4px; display:inline-block;"></span> (laranja beroa, gosea pizteko)  
+- **Bigarrena:** `#FFD166` <span style="background-color:#FFD166; padding: 0 12px; border-radius:4px; display:inline-block;"></span> (horia argia, bizitasuna)  
+- **Neutrala:** `#F7F7F7` <span style="background-color:#F7F7F7; padding: 0 12px; border-radius:4px; border:1px solid #ccc; display:inline-block;"></span> (atzealde garbia)  
+- **Testua:** `#333333` <span style="background-color:#333333; padding: 0 12px; border-radius:4px; display:inline-block;"></span> (gris iluna, irakurgarritasun ona)  
 
 ### Tipografia
 - **Tituluak:** *Montserrat Bold*  
@@ -54,6 +54,7 @@ Nabigazioa atal hauetan banatzen da:
 ### Ikonoak
 - **Estiloa:** *flat design*  
 - **Erabilera:** nabigazioa laguntzeko (tresna txikiak: lapikoa, sardexka, hostoa, pastela…)  
+
 
 ---
 
