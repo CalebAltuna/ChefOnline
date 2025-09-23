@@ -23,7 +23,8 @@ Nabigazioa atal hauetan banatzen da:
 
 
 *ChefOnline* ez da errezeta-biltegi soil bat, baizik eta **sukaldaritza esperientzia interaktibo eta pertsonalizatua**, erabiltzailearen beharretara egokitzen dena.  
-
+## Bozetoa
 <img width="5544" height="2475" alt="Sin título-2025-09-19-1012" src="https://github.com/user-attachments/assets/a009d218-d479-4795-9046-723194aebc1f" />
-
+## Nabigazio mapa
+<img width="1920" height="1080" alt="Hasiera" src="https://github.com/user-attachments/assets/62924692-b227-4789-b021-433bf1a73100" />
 
