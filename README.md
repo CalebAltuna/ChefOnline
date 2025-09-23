@@ -31,31 +31,3 @@ Nabigazioa atal hauetan banatzen da:
 
 ## Estilo-gida
 
-### Kolore-paleta
-
-| Kolorea       | Hex       |
-|---------------|-----------|
-| **Nagusia**   | `#FF6B35` | 
-| **Bigarrena** | `#FFD166` | 
-| **Neutrala**  | `#F7F7F7` |
-| **Testua**    | `#333333` |
-
-
-### Tipografia
-- **Tituluak:** *Montserrat Bold*  
-- **Testu orokorra:** *Open Sans Regular*  
-
-### Botoiak
-- **Forma:** ertz biribilduak (radius 8px)  
-- **Kolorea:** laranja nagusia (`#FF6B35`), hover efektua ilunagoa (`#E85C2D`)  
-- **Testua:** zuria (`#FFFFFF`), letra larrian  
-
-### Irudiak
-- **Argazkiak:** kalitate handikoak, argiak eta naturalak  
-- **Formatua:** 16:9 edo karratua  
-- **Kokapena:** testuarekin txandakatuta  
-
-### Ikonoak
-- **Estiloa:** *flat design*  
-- **Erabilera:** nabigazioa laguntzeko (tresna txikiak: lapikoa, sardexka, hostoa, pastela…)  
-
