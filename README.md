@@ -47,8 +47,8 @@ Markaren nortasuna indartzen du: sukaldeko giro bizi eta atsegina (laranja) + or
 Nahi dugu seriotasuna kentzea, eta nahiko itxura informala ematea. Beraz, letra oso egituratuak saihestuko ditugu.  
 Aukera on batzuk izango dira:  
 
-- **Comic Neue** (informala eta dibertigarria)  
-- **Fredoka One** (borobil eta bizia)
+- **Comic Neue** (informala eta dibertigarria)- "comics sans formal"
+- **Fredoka One** (borobil eta bizia)-"arial alaia"
 
 
 
