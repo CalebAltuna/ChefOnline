@@ -38,8 +38,7 @@ Urdina eta laranja kontraste konplementarioa osatzen dute:
 * Laranja: beroa, dinamikoa eta gosea pizten du. Sukaldaritzarekin eta energia positiboarekin lotzen da. Horregatik erabiltzen da nagusiki botoietan eta ekintza deietan.
 * Urdina: lasaia, fidagarria eta profesionala transmititzen du. Oreka ematen dio laranjaren biziari eta atzealdeetan edo nabigazio elementuetan erabiltzeko aproposa da.
 
-Konbinazio hau:
-Erakarpen bisuala sortzen du (kontraste handia baina harmoniatsua).
+
 Funtzionala da: laranja nabarmendu egiten da, eta urdina atzealde eta testuetan erabil daiteke irakurgarritasuna mantenduz.
 Markaren nortasuna indartzen du: sukaldeko giro bizi eta atsegina (laranja) + ordena eta argitasuna (urdina).
 
@@ -49,6 +48,28 @@ Aukera on batzuk izango dira:
 
 - **Comic Neue** (informala eta dibertigarria)- "comics sans formal"
 - **Fredoka One** (borobil eta bizia)-"arial alaia"
+
+### Botoien itxura
+
+- Forma biribildua  
+- Kolorea laranja  
+- Hover kolore ilunagoa  
+- Testua zuria  
+- Erraz klikatzeko tamaina
+
+### Irudien erabilera
+
+- Ez gehiegi, ez itxura korapilatsua  
+- Kalitate handikoak eta argiak  
+- Testuarekin txandakatuta, nabigazioa errazteko  
+- Formatua: 16:9 edo karratua 
+
+### Ikonoen estiloa
+
+- Estilo **flat design** (bidimentsional eta kolore solidokoak)  
+- Kolore paletarekin bateragarriak (laranja / urdin)  
+- Erabilera praktikoa: nabigazioan eta botoietan laguntzeko  
+- Ikono sinpleak, irakurgarriak eta lagungarriak, ez gehiegi dekoratiboak
 
 
 
