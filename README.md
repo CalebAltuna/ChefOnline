@@ -33,12 +33,12 @@ Nabigazioa atal hauetan banatzen da:
 
 ### Kolore-paleta
 
-| Kolorea       | Hex       | Lagina |
-|---------------|-----------|--------|
-| **Nagusia**   | `#FF6B35` | ![#FF6B35](https://via.placeholder.com/20/FF6B35/000000?text=+) |
-| **Bigarrena** | `#FFD166` | ![#FFD166](https://via.placeholder.com/20/FFD166/000000?text=+) |
-| **Neutrala**  | `#F7F7F7` | ![#F7F7F7](https://via.placeholder.com/20/F7F7F7/000000?text=+) |
-| **Testua**    | `#333333` | ![#333333]([https://via.placeholder.com/20/333333/000000?text=+](https://htmlcolorcodes.com/es/selector-de-color/)) |
+| Kolorea       | Hex       |
+|---------------|-----------|
+| **Nagusia**   | `#FF6B35` | 
+| **Bigarrena** | `#FFD166` | 
+| **Neutrala**  | `#F7F7F7` |
+| **Testua**    | `#333333` |
 
 
 ### Tipografia
