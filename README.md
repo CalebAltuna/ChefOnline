@@ -30,4 +30,17 @@ Nabigazioa atal hauetan banatzen da:
 <img width="1920" height="1080" alt="Hasiera" src="https://github.com/user-attachments/assets/62924692-b227-4789-b021-433bf1a73100" />
 
 ## Estilo-gida
+Gure web-gunea, oinarrean, erabiliko dugun koloreak, laranja eta urdinak izango dira.
+
+Zergatik urdinak eta laranjak?
+
+Urdina eta laranja kontraste konplementarioa osatzen dute:
+Laranja: beroa, dinamikoa eta gosea pizten du. Sukaldaritzarekin eta energia positiboarekin lotzen da. Horregatik erabiltzen da nagusiki botoietan eta ekintza deietan (CTA).
+Urdina: lasaia, fidagarria eta profesionala transmititzen du. Oreka ematen dio laranjaren biziari eta atzealdeetan edo nabigazio elementuetan erabiltzeko aproposa da.
+
+Konbinazio hau:
+Erakarpen bisuala sortzen du (kontraste handia baina harmoniatsua).
+Funtzionala da: laranja nabarmendu egiten da, eta urdina atzealde eta testuetan erabil daiteke irakurgarritasuna mantenduz.
+Markaren nortasuna indartzen du: sukaldeko giro bizi eta atsegina (laranja) + ordena eta argitasuna (urdina).
+
 
