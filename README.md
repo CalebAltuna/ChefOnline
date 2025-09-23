@@ -36,9 +36,9 @@ Zergatik urdinak eta laranjak?
 
 Urdina eta laranja kontraste konplementarioa osatzen dute:
 
-*Laranja: beroa, dinamikoa eta gosea pizten du. Sukaldaritzarekin eta energia positiboarekin lotzen da. Horregatik erabiltzen da nagusiki botoietan eta ekintza deietan.
+* Laranja: beroa, dinamikoa eta gosea pizten du. Sukaldaritzarekin eta energia positiboarekin lotzen da. Horregatik erabiltzen da nagusiki botoietan eta ekintza deietan.
 
-*Urdina: lasaia, fidagarria eta profesionala transmititzen du. Oreka ematen dio laranjaren biziari eta atzealdeetan edo nabigazio elementuetan erabiltzeko aproposa da.
+* Urdina: lasaia, fidagarria eta profesionala transmititzen du. Oreka ematen dio laranjaren biziari eta atzealdeetan edo nabigazio elementuetan erabiltzeko aproposa da.
 
 Konbinazio hau:
 Erakarpen bisuala sortzen du (kontraste handia baina harmoniatsua).
