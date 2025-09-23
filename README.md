@@ -29,3 +29,31 @@ Nabigazioa atal hauetan banatzen da:
 ## Nabigazio mapa
 <img width="1920" height="1080" alt="Hasiera" src="https://github.com/user-attachments/assets/62924692-b227-4789-b021-433bf1a73100" />
 
+## Estilo-gida
+
+### Kolore-paleta
+- **Nagusia:** `#FF6B35` (laranja beroa, gosea pizteko)  
+- **Bigarrena:** `#FFD166` (horia argia, bizitasuna)  
+- **Neutrala:** `#F7F7F7` (atzealde garbia)  
+- **Testua:** `#333333` (gris iluna, irakurgarritasun ona)  
+
+### Tipografia
+- **Tituluak:** *Montserrat Bold*  
+- **Testu orokorra:** *Open Sans Regular*  
+
+### Botoiak
+- **Forma:** ertz biribilduak (radius 8px)  
+- **Kolorea:** laranja nagusia (`#FF6B35`), hover efektua ilunagoa (`#E85C2D`)  
+- **Testua:** zuria (`#FFFFFF`), letra larrian  
+
+### Irudiak
+- **Argazkiak:** kalitate handikoak, argiak eta naturalak  
+- **Formatua:** 16:9 edo karratua  
+- **Kokapena:** testuarekin txandakatuta  
+
+### Ikonoak
+- **Estiloa:** *flat design*  
+- **Erabilera:** nabigazioa laguntzeko (tresna txikiak: lapikoa, sardexka, hostoa, pastela…)  
+
+---
+
