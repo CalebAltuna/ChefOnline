@@ -32,10 +32,15 @@ Nabigazioa atal hauetan banatzen da:
 ## Estilo-gida
 
 ### Kolore-paleta
-- **Nagusia:** `#FF6B35` <span style="background-color:#FF6B35; padding: 0 12px; border-radius:4px; display:inline-block;"></span> (laranja beroa, gosea pizteko)  
-- **Bigarrena:** `#FFD166` <span style="background-color:#FFD166; padding: 0 12px; border-radius:4px; display:inline-block;"></span> (horia argia, bizitasuna)  
-- **Neutrala:** `#F7F7F7` <span style="background-color:#F7F7F7; padding: 0 12px; border-radius:4px; border:1px solid #ccc; display:inline-block;"></span> (atzealde garbia)  
-- **Testua:** `#333333` <span style="background-color:#333333; padding: 0 12px; border-radius:4px; display:inline-block;"></span> (gris iluna, irakurgarritasun ona)  
+### Kolore-paleta
+
+| Kolorea     | Hex       | Lagina |
+|-------------|-----------|--------|
+| **Nagusia** | `#FF6B35` | ![#FF6B35](https://via.placeholder.com/20/FF6B35/000000?text=+) |
+| **Bigarrena** | `#FFD166` | ![#FFD166](https://via.placeholder.com/20/FFD166/000000?text=+) |
+| **Neutrala** | `#F7F7F7` | ![#F7F7F7](https://via.placeholder.com/20/F7F7F7/000000?text=+) |
+| **Testua**   | `#333333` | ![#333333](https://via.placeholder.com/20/333333/000000?text=+) |
+
 
 ### Tipografia
 - **Tituluak:** *Montserrat Bold*  
