@@ -73,7 +73,9 @@ Aukera on batzuk izango dira:
 - Kolore paletarekin bateragarriak (laranja / urdin)  
 - Erabilera praktikoa: nabigazioan eta botoietan laguntzeko  
 - Ikono sinpleak, irakurgarriak eta lagungarriak, ez gehiegi dekoratiboak
+## Prototipo
 
+<img width="875" height="740" alt="imagen" src="https://github.com/user-attachments/assets/930f4b9b-986c-4a62-bd02-bc94b59a2e95" />
 
 
 
