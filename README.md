@@ -56,6 +56,7 @@ Aukera on batzuk izango dira:
 - Hover kolore ilunagoa  
 - Testua zuria  
 - Erraz klikatzeko tamaina
+  
   ![OIG4](https://github.com/user-attachments/assets/52a45780-64d5-483f-9ce8-c38787577979)
 
 
