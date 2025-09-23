@@ -43,13 +43,14 @@ Erakarpen bisuala sortzen du (kontraste handia baina harmoniatsua).
 Funtzionala da: laranja nabarmendu egiten da, eta urdina atzealde eta testuetan erabil daiteke irakurgarritasuna mantenduz.
 Markaren nortasuna indartzen du: sukaldeko giro bizi eta atsegina (laranja) + ordena eta argitasuna (urdina).
 
-<div style="background-color:#1e3a8a; color:white; padding:10px; border-radius:8px;">
-  Texto en fondo azul
-</div>
+### Tipografia
+Nahi dugu seriotasuna kentzea, eta nahiko itxura informala ematea. Beraz, letra oso egituratuak saihestuko ditugu.  
+Aukera on batzuk izango dira:  
 
-<div style="background-color:#dc2626; color:white; padding:10px; border-radius:8px; margin-top:10px;">
-  Texto en fondo rojo
-</div>
+- **Comic Neue** (informala eta dibertigarria)  
+- **Fredoka One** (borobil eta bizia)
+
+
 
 
 
