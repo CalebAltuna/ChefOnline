@@ -1,45 +1,79 @@
+/* BODY */
 body {
   background-color: #fdfdfd;
   font-family: Arial, sans-serif;
   color: #0D3B66;
   margin: 0;
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Para que footer quede abajo */
 }
 
-
+/* HEADER */
 header {
   background-color: #0D3B66;
   color: white;
   text-align: center;
-  padding: 1rem;
+  padding: 1rem 0;
 }
 
 header .logo {
-  width: 80px; 
+  width: 80px;
   display: block;
   margin: 0 auto 0.5rem auto;
 }
 
+/* NAVBAR (adaptación a tu estilo) */
+.navbar {
+  background-color: #0D3B66; /* tu azul, en vez del bg-dark de bootstrap */
+}
 
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .btn-outline-light {
+  color: white; /* enlaces y botón en blanco */
+}
 
-button {
-  background-color: #F15A29;
+.navbar .nav-link:hover {
+  color: #F15A29; /* tu naranja */
+}
+
+/* BOTONES */
+button,
+.btn-primary {
+  background-color: #F15A29 !important;
   border: none;
   padding: 0.75rem 1.5rem;
   cursor: pointer;
   border-radius: 5px;
   font-size: 1rem;
+  color: white;
 }
 
-button:hover {
-  background-color: #d94b1f;
+button:hover,
+.btn-primary:hover {
+  background-color: #d94b1f !important;
 }
 
+/* CARRUSEL */
+.carousel-inner img {
+  max-height: 400px; /* tamaño máximo */
+  object-fit: cover; /* que no se distorsione */
+}
 
+/* MAIN */
+main {
+  flex-grow: 1; /* para empujar el footer abajo */
+  padding: 2rem 0;
+  text-align: center;
+}
+
+/* FOOTER */
 footer {
   background-color: #eee;
   color: #0D3B66;
   text-align: center;
   padding: 1rem;
-  margin-top: 2rem;
+  margin-top: auto; /* para empujar arriba si hay poco contenido */
 }
