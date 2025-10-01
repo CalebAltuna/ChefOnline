@@ -1,0 +1,45 @@
+body {
+  background-color: #fdfdfd;
+  font-family: Arial, sans-serif;
+  color: #0D3B66;
+  margin: 0;
+  padding: 0;
+}
+
+
+header {
+  background-color: #0D3B66;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+header .logo {
+  width: 80px; 
+  display: block;
+  margin: 0 auto 0.5rem auto;
+}
+
+
+
+button {
+  background-color: #F15A29;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #d94b1f;
+}
+
+
+footer {
+  background-color: #eee;
+  color: #0D3B66;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}

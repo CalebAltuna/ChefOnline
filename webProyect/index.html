@@ -1,66 +1,83 @@
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>  
-    <style>
-    header{
-    background-color: #f97316;
-
-    }
-    body {
-    background-color: #fff7ed; 
-    color: #c2410c;
-    text-align: center;
-    }
-    h1 {
-    color: #fff7ed;
-    }
-    input {
-    padding: 8px;
-    margin: 5px;
-    border: 2px solid #f97316;
-    border-radius: 5px;
-    width: 200px;
-    }
-    input:focus {
-    border-color: #1e3a8a;
-    }
-    button {
-    background-color: #c2410c;
-    color: #ffffff;
-    padding: 10px 20px;
-    margin: 5px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    }
-    button:hover {
-    background-color: #f97316;
-    }
-    #resultado {
-    margin-top: 15px;
-    font-weight: bold;
-    font-size: 1.2em;
-    color: #c2410c;
-    }
-    :root {
-        --bs-font-sans-serif: "Comic Neue", sans-serif;
-      }
-    </style>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>ChefOnline</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
-  <body> 
-    <header>
-    <h1>ChefOnline</h1>
-    </header>
-  </body>
+<body>
+
+  <header>
+  <img src="logo.jpg" alt="ChefOnline logo" class="logo">
+  <h1>ChefOnline</h1>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+</header>
+
+  <main>
+    <div id="carouselExample" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+    <h2>Bienvenido</h2>
+    <p>Aquí podrás descubrir recetas, consejos y todo lo que necesitas para cocinar como un verdadero chef.</p>
+    <button>Explorar recetas</button>
+  </main>
 
   <footer>
-<p>@calebvalls inc</p>
+    <p>&copy; 2025 @calebvalls inc</p>
   </footer>
-</html> 
+
+</body>
+</html>
