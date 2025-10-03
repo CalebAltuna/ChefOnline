@@ -29,9 +29,12 @@ header .logo {
 }
 
 .navbar .navbar-brand,
-.navbar .nav-link,
 .navbar .btn-outline-light {
   color: white;
+}
+
+.navbar .nav-link{
+  color:#0D3B66;
 }
 
 .navbar .nav-link:hover {
