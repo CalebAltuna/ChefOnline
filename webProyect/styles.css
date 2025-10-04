@@ -84,3 +84,11 @@ footer {
   max-height: 400px;
   object-fit: contain;
 }
+
+.about-us {
+  margin-top: 2rem;
+  text-align: left;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
