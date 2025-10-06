@@ -12,47 +12,79 @@
 
     <!-- NAVBAR -->
     <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="index.html">
-                    <img src="img/logo.jpg" alt="ChefOnline logo" class="logo" style="height:40px;">
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.html">
+            <img src="img/logo.jpg" alt="ChefOnline logo" class="logo" style="height:40px;">
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item"><a class="nav-link" href="index.html">Hasiera</a></li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                  aria-expanded="false">
+                  Errezetak
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="recetas.html#hasiberriak">Hasiberriak</a></li>
+                  <li><a class="dropdown-item" href="recetas.html#tradicionalak">Tradizionalak</a></li>
+                  <li><a class="dropdown-item" href="recetas.html#beganoak">Beganoak</a></li>
+                  <li><a class="dropdown-item" href="recetas.html#postreak">Postreak</a></li>
+                </ul>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="bideoak.html">Bideoak</a></li>
+              <li class="nav-item"><a class="nav-link" href="gomendioak.html">Gomendioak</a></li>
+              <li class="nav-item"><a class="nav-link" href="nire sukaldea.html">Nire Sukaldea</a></li>
+            </ul>
 
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="index.html">Hasiera</a></li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                aria-expanded="false">
-                                Errezetak
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="recetas.html#hasiberriak">Hasiberriak</a></li>
-                                <li><a class="dropdown-item" href="recetas.html#tradicionalak">Tradizionalak</a></li>
-                                <li><a class="dropdown-item" href="recetas.html#beganoak">Beganoak</a></li>
-                                <li><a class="dropdown-item" href="recetas.html#postreak">Postreak</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item"><a class="nav-link" href="bideoak.html">Bideoak</a></li>
-                        <li class="nav-item"><a class="nav-link" href="gomendioak.html">Gomendioak</a></li>
-                        <li class="nav-item"><a class="nav-link" href="nire sukaldea.html">Nire Sukaldea</a></li>
-
-                        <form class="d-flex" role="search">
-                            <input class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Search">
-                            <button class="btn btn-outline-success" type="submit">Buscar</button>
-                        </form>
-                </div>
-            </div>
-        </nav>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Buscar</button>
+            </form>
+          </div>
+        </div>
+      </nav>
     </header>
 
     <!-- MAIN -->
-    <main class="container my-4">
-    </main>
+<main class="container my-4">
+  <h2 class="text-center mb-4">Bideoak</h2>
+
+  <div class="row g-4">
+    <!-- Video 1 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                title="YouTube video" allowfullscreen></iframe>
+      </div>
+      <h5 class="mt-2 text-center">Nola prestatu tortilla perfektua</h5>
+    </div>
+
+    <!-- Video 2 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.youtube.com/embed/aqz-KE-bpKQ" 
+                title="YouTube video" allowfullscreen></iframe>
+      </div>
+      <h5 class="mt-2 text-center">Postre azkar eta goxoa</h5>
+    </div>
+
+    <!-- Video 3 -->
+    <div class="col-md-6 col-lg-4">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" 
+                title="YouTube video" allowfullscreen></iframe>
+      </div>
+      <h5 class="mt-2 text-center">Sukaldeko trikimailuak</h5>
+    </div>
+  </div>
+</main>
+
 
     <!-- FOOTER -->
     <footer class="bg-dark text-light text-center py-3 mt-auto">

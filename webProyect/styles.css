@@ -42,7 +42,7 @@ header .logo {
 }
 
 /* BOTONES */
-button,
+button:not(.carousel-control-prev, .carousel-control-next),
 .btn-primary {
   background-color: #F15A29 !important;
   border: none;
@@ -53,9 +53,15 @@ button,
   color: white;
 }
 
-button:hover,
+button:not(.carousel-control-prev, .carousel-control-next):hover,
 .btn-primary:hover {
-  background-color: #d94b1f !important;
+  background-color: #0D3B66 !important;
+}
+
+/* Botones del carrusel  */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: none;
 }
 
 /* CARRUSEL */
