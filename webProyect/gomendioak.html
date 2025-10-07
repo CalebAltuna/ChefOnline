@@ -2,17 +2,17 @@
 <html lang="es">
 
 <head>
-    <meta charset="utf-8">
-    <title>ChefOnline - gomendioak</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <title>ChefOnline - Gomendioak</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body class="d-flex flex-column min-vh-100">
 
-    <!-- NAVBAR -->
-      <header>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <!-- NAVBAR -->
+  <header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary shadow-sm">
       <div class="container-fluid">
         <a class="navbar-brand" href="index.html">
           <img src="img/logo.jpg" alt="ChefOnline logo" class="logo" style="height:40px;">
@@ -26,19 +26,17 @@
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item"><a class="nav-link" href="index.html">Hasiera</a></li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Errezetak
-              </a>
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">Errezetak</a>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="errezetak.html#hasiberriak">Hasiberriak</a></li>
                 <li><a class="dropdown-item" href="errezetak.html#tradizionalak">Tradizionalak</a></li>
-                <li><a class="dropdown-item" href="errezetak.html##beganoak">Beganoak</a></li>
+                <li><a class="dropdown-item" href="errezetak.html#beganoak">Beganoak</a></li>
                 <li><a class="dropdown-item" href="errezetak.html#postreak">Postreak</a></li>
               </ul>
             </li>
             <li class="nav-item"><a class="nav-link" href="bideoak.html">Bideoak</a></li>
-            <li class="nav-item"><a class="nav-link" href="gomendioak.html">Gomendioak</a></li>
+            <li class="nav-item"><a class="nav-link active" href="gomendioak.html">Gomendioak</a></li>
             <li class="nav-item"><a class="nav-link" href="nire sukaldea.html">Nire Sukaldea</a></li>
           </ul>
 
@@ -51,34 +49,66 @@
     </nav>
   </header>
 
-    <!-- MAIN -->
-    <main class="container my-4">
-        <main class="container my-5">
-  <h1 class="text-center mb-4">Gomendioak</h1>
+  <!-- MAIN -->
+  <main class="container my-5">
+    <h1 class="mb-4 text-center fw-bold">Gomendioak</h1>
 
-  <div class="row g-4">
-    <div class="col-md-4">
-      <div class="card h-100">
-        <img src="img/plato1.jpg" class="card-img-top" alt="Pasta freska">
-        <div class="card-body">
-          <h5 class="card-title">Pasta freska egina</h5>
-          <p class="card-text">Italiako zapore originala zure etxean egiteko aholkuak eta teknikak.</p>
-          <a href="recetas.html#tradicionalak" class="btn btn-success">Ikusi gehiago</a>
+    <section class="intro bg-light p-4 rounded mb-5">
+      <h2 class="fw-bold">Zure sukaldea hobetzeko trikimailuak</h2>
+      <p>Ez da zertan sukaldari profesionala izan. Aholku sinple batzuekin, zure platerak beste maila batera
+        eraman ditzakezu. Hemen dituzue gure gomendio gogokoenak!</p>
+    </section>
+
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="card shadow-sm border-0">
+          <img src="img/plato1.jpg" class="card-img-top" alt="Pasta freska">
+          <div class="card-body">
+            <h5 class="card-title">Pasta freska egina</h5>
+            <p class="card-text">Ez dago ezer pasta fresko baten zaporea bezalakorik. Ikasi nola egin orea perfektua
+              eta zein irina erabili.</p>
+            <a href="errezetak.html#tradizionalak" class="btn btn-primary mt-auto">Ikusi gehiago</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card shadow-sm border-0">
+          <img src="img/plato2.jpg" class="card-img-top" alt="Postre">
+          <div class="card-body">
+            <h5 class="card-title">Txokolatearen magia</h5>
+            <p class="card-text">Txokolatea urtu, nahastu eta moldatu... baina ez gehiegi! Ezagutu tenperatura egokia
+              eta truku sekretua.</p>
+            <a href="errezetak.html#postreak" class="btn btn-primary mt-auto">Inspiratu zaitez</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card shadow-sm border-0">
+          <img src="img/plato3.jpg" class="card-img-top" alt="Janari beganoa">
+          <div class="card-body">
+            <h5 class="card-title">Begano errazak</h5>
+            <p class="card-text">Landare-oinarritutako janariak ere zaporetsuak izan daitezke. Ezagutu gure errezeta
+              begano kuttunak.</p>
+            <a href="errezetak.html#beganoak" class="btn btn-primary mt-auto">Ikusi aukerak</a>
+          </div>
         </div>
       </div>
     </div>
 
-  </div>
-</main>
+    <section class="mt-5 text-center">
+      <h3 class="fw-bold mb-3">Sukaldatu gustura, gozatu emaitzaz</h3>
+      <p>Plater bakoitza aukera bat da zerbait berria ikasteko. Sukaldaritza da artea, esperimentua eta poza.</p>
+    </section>
+  </main>
 
-    </main>
+  <!-- FOOTER -->
+  <footer>
+    <p>&copy; 2025 ChefOnline | @calebvalls inc</p>
+  </footer>
 
-    <!-- FOOTER -->
-    <footer class="bg-dark text-light text-center py-3 mt-auto">
-        <p>&copy; 2025 ChefOnline | @calebvalls inc</p>
-    </footer>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
